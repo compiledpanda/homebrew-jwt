@@ -7,6 +7,6 @@ class Jwt < Formula
   sha256 "a74363a3c13755f6fbc0b6bb5dc4c8b7430aef5856bbd2102b8eff91fec3e702"
 
   def install
-    bin.install "program"
+    bin.install "jwt"
   end
 end
